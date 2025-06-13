@@ -63,23 +63,26 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 #### AI/ML & LLM Tools
-- LM Studio (local inference)
-- DeepSeek Coder 1.3b, Dolphin Llama-3.1 3b, Qwen 2.5 7b Instruct (prompting & workflow integration)
+![LM Studio](https://img.shields.io/badge/-LM%20Studio-black?style=flat-square&logo=none)
+![DeepSeek Coder 1.3b](https://img.shields.io/badge/-DeepSeek%20Coder%201.3b-black?style=flat-square&logo=none)
+![Dolphin Llama-3.1 3b](https://img.shields.io/badge/-Dolphin%20Llama--3.1%203b-black?style=flat-square&logo=none)
+![Qwen 2.5 7b Instruct](https://img.shields.io/badge/-Qwen%202.5%207b%20Instruct-black?style=flat-square&logo=none)
 
 #### Concepts & Skills
-- Data Structures & Algorithms (DSA)
-- Operating System Concepts (including concurrency, virtualization)
-- Computer Networks & Protocols
-- Relational Databases (SQL, MySQL)
-- NoSQL Databases (MongoDB)
-- Object-Oriented Programming (Java)
-- Embedded Systems & IoT (Embedded C)
-- Linux System Administration & Shell Scripting
-- Software Design Patterns & SDLC
-- Web Development (React, HTML, CSS, JavaScript)
-- QA Testing (Selenium, Jenkins)
-- Security Fundamentals & Secure Coding
-- Prompt Engineering, Local LLMs
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square)
+![OS Concepts](https://img.shields.io/badge/-OS%20Concepts-black?style=flat-square)
+![Networking](https://img.shields.io/badge/-Networking-black?style=flat-square)
+![Relational DBs (SQL, MySQL)](https://img.shields.io/badge/-Relational%20DBs%20(SQL,%20MySQL)-black?style=flat-square)
+![NoSQL (MongoDB)](https://img.shields.io/badge/-NoSQL%20(MongoDB)-black?style=flat-square)
+![OOP (Java)](https://img.shields.io/badge/-OOP%20(Java)-black?style=flat-square)
+![Embedded Systems & IoT](https://img.shields.io/badge/-Embedded%20Systems%20&%20IoT-black?style=flat-square)
+![Linux & Shell Scripting](https://img.shields.io/badge/-Linux%20&%20Shell%20Scripting-black?style=flat-square)
+![Software Design Patterns](https://img.shields.io/badge/-Software%20Design%20Patterns-black?style=flat-square)
+![Web Dev](https://img.shields.io/badge/-Web%20Dev-black?style=flat-square)
+![QA Testing](https://img.shields.io/badge/-QA%20Testing-black?style=flat-square)
+![Security Fundamentals](https://img.shields.io/badge/-Security%20Fundamentals-black?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-black?style=flat-square)
+![Local LLMs](https://img.shields.io/badge/-Local%20LLMs-black?style=flat-square)
 
 ---
 
@@ -134,7 +137,7 @@
 ### 🎯 Current Goals
 
 - Contribute to open-source & real-world problem solving
-- Land a role as **SDE 1** or in **Data Engineering** or in **Software Development** or in **QA Automation** 
+- Land a role as **SDE 1** or in **Software Development** or **QA Automation**
 - Master system design, scalable backend patterns, and CI/CD pipelines
 - Finish the NeetCode 75 for strong DSA/interview prep
 
@@ -143,6 +146,12 @@
 <details>
   <summary>✨ Fun Fact</summary>
   <p>I play the piano, and I love improvising tunes by ear!</p>
+</details>
+
+<details>
+  <summary>😄 Want a joke?</summary>
+  <p>Why do programmers prefer dark mode?<br>
+  Because light attracts bugs!</p>
 </details>
 
 ---
