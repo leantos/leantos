@@ -63,12 +63,31 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 #### AI/ML & LLM Tools
+<p>
+  <img src="https://lmstudio.ai/favicon.ico" alt="LM Studio" width="32" title="LM Studio"/>
+  <img src="https://huggingface.co/spaces/deepseek-ai/DeepSeek-Coder/resolve/main/logo.png" alt="DeepSeek Coder" width="32" title="DeepSeek Coder 1.3b"/>
+  <img src="https://seeklogo.com/images/O/open-llama-logo-2236B4E6D5-seeklogo.com.png" alt="Dolphin Llama" width="32" title="Dolphin Llama-3.1 3b"/>
+  <img src="https://avatars.githubusercontent.com/u/137041808?s=200&v=4" alt="Qwen" width="32" title="Qwen 2.5 7b Instruct"/>
+</p>
+
 ![LM Studio](https://img.shields.io/badge/-LM%20Studio-black?style=flat-square&logo=none)
 ![DeepSeek Coder 1.3b](https://img.shields.io/badge/-DeepSeek%20Coder%201.3b-black?style=flat-square&logo=none)
 ![Dolphin Llama-3.1 3b](https://img.shields.io/badge/-Dolphin%20Llama--3.1%203b-black?style=flat-square&logo=none)
 ![Qwen 2.5 7b Instruct](https://img.shields.io/badge/-Qwen%202.5%207b%20Instruct-black?style=flat-square&logo=none)
 
 #### Concepts & Skills
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="DSA" width="32" title="DSA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="32" title="Linux & Shell Scripting"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="32" title="Relational DBs (SQL, MySQL)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" title="NoSQL (MongoDB)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="OOP (Java)" width="32" title="OOP (Java)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Web Dev" width="32" title="Web Dev"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Scripting" width="32" title="Shell Scripting"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="QA Testing" width="32" title="QA Testing"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="32" title="Jenkins"/>
+</p>
+
 ![DSA](https://img.shields.io/badge/-DSA-black?style=flat-square)
 ![OS Concepts](https://img.shields.io/badge/-OS%20Concepts-black?style=flat-square)
 ![Networking](https://img.shields.io/badge/-Networking-black?style=flat-square)
