@@ -63,11 +63,11 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
 #### AI/ML & LLM Tools
+
+**Experience with local and open-source AI models and tools:**
+
 <p>
   <img src="https://lmstudio.ai/favicon.ico" alt="LM Studio" width="32" title="LM Studio"/>
-  <img src="https://huggingface.co/spaces/deepseek-ai/DeepSeek-Coder/resolve/main/logo.png" alt="DeepSeek Coder" width="32" title="DeepSeek Coder 1.3b"/>
-  <img src="https://seeklogo.com/images/O/open-llama-logo-2236B4E6D5-seeklogo.com.png" alt="Dolphin Llama" width="32" title="Dolphin Llama-3.1 3b"/>
-  <img src="https://avatars.githubusercontent.com/u/137041808?s=200&v=4" alt="Qwen" width="32" title="Qwen 2.5 7b Instruct"/>
 </p>
 
 ![LM Studio](https://img.shields.io/badge/-LM%20Studio-black?style=flat-square&logo=none)
@@ -115,8 +115,7 @@
 | [AI Recipe Generator](https://github.com/leantos/chef-gusteau) | Hugging Face-powered recipe suggester | React, API, AI |
 | [Meme Generator](https://github.com/leantos/meme-generator-react) | Create and customize memes with React | React |
 | [Travel Journal](https://github.com/leantos/travel-journal) | Interactive travel log built with React | React |
-| [React Facts](https://github.com/leantos/react_facts) | Fun facts about React, built as a learning project | React |
-| _Add more projects here!_ | | |
+| [React Facts](https://github.com/leantos/react_facts) | Fun facts about React, built as a learning project | React | |
 
 ---
 
