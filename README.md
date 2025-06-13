@@ -87,7 +87,7 @@ REST APIs, Authentication, ETL, Agile, SQL
 
 <details>
   <summary>✨ Fun Fact</summary>
-  <p>I make the best instant filter coffee in my block. Ask me for my recipe!</p>
+  <p>I play the piano for fun, you can ask me to play for you</p>
 </details>
 
 ---
