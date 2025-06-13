@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing my Master's in Computer Science (8.92 CGPA)
+- 🎓 Completed my Master's in Computer Science, M.Sc. Computer Science from St Joseph's University (8.92 CGPA)
 - 🦄 Self-taught MERN stack developer (REST APIs, JWT Auth, etc.)
 - 🧑‍💼 Completed "Scrimba - Learn React" by Bob Ziroll
 - 📊 Learning Systems Design, QA Testing (Selenium, Jenkins, CI/CD)
