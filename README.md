@@ -19,6 +19,7 @@
 - 🦄 Self-taught MERN stack developer (REST APIs, JWT Auth, etc.)
 - 🧑‍💼 Completed "Scrimba - Learn React" by Bob Ziroll
 - 📊 Learning Systems Design, QA Testing (Selenium, Jenkins, CI/CD)
+- 🤖 Experiment with local LLMs via LM Studio (DeepSeek Coder 1.3b, Dolphin Llama-3.1 3b, Qwen 2.5 7b Instruct)
 - 💡 I love building real-world solutions from scratch
 - 🔍 Always exploring better patterns, cleaner code, and new tools
 - 🧠 Currently working through the NeetCode 75 for interview prep
@@ -61,8 +62,24 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 
-#### Concepts
-REST APIs, Authentication, ETL, Agile, SQL, CI/CD, QA Testing, IoT, Systems Design
+#### AI/ML & LLM Tools
+- LM Studio (local inference)
+- DeepSeek Coder 1.3b, Dolphin Llama-3.1 3b, Qwen 2.5 7b Instruct (prompting & workflow integration)
+
+#### Concepts & Skills
+- Data Structures & Algorithms (DSA)
+- Operating System Concepts (including concurrency, virtualization)
+- Computer Networks & Protocols
+- Relational Databases (SQL, MySQL)
+- NoSQL Databases (MongoDB)
+- Object-Oriented Programming (Java)
+- Embedded Systems & IoT (Embedded C)
+- Linux System Administration & Shell Scripting
+- Software Design Patterns & SDLC
+- Web Development (React, HTML, CSS, JavaScript)
+- QA Testing (Selenium, Jenkins)
+- Security Fundamentals & Secure Coding
+- Prompt Engineering, Local LLMs
 
 ---
 
@@ -74,6 +91,9 @@ REST APIs, Authentication, ETL, Agile, SQL, CI/CD, QA Testing, IoT, Systems Desi
 | [Yaalnits POS](https://github.com/nosfeefearatu/yaalnits-pos) | Full POS system with JWT auth and role-based access | MERN Stack |
 | [Doctor Appointment App](https://github.com/nosfeefearatu/doctor-appointment) | Secure healthcare appointment booking | MERN Stack |
 | [AI Recipe Generator](https://github.com/leantos/chef-gusteau) | Hugging Face-powered recipe suggester | React, API, AI |
+| [Meme Generator](https://github.com/leantos/meme-generator-react) | Create and customize memes with React | React |
+| [Travel Journal](https://github.com/leantos/travel-journal) | Interactive travel log built with React | React |
+| [React Facts](https://github.com/leantos/react_facts) | Fun facts about React, built as a learning project | React |
 | _Add more projects here!_ | | |
 
 ---
@@ -114,7 +134,7 @@ REST APIs, Authentication, ETL, Agile, SQL, CI/CD, QA Testing, IoT, Systems Desi
 ### 🎯 Current Goals
 
 - Contribute to open-source & real-world problem solving
-- Land a role as **SDE 1** or in **Software Development** or **QA Automation**
+- Land a role as **SDE 1** or in **Data Engineering** or in **Software Development** or in **QA Automation** 
 - Master system design, scalable backend patterns, and CI/CD pipelines
 - Finish the NeetCode 75 for strong DSA/interview prep
 
