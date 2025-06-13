@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Code%20with-Passion-orange?style=flat-square" alt="Passion Badge"/>
   <img src="https://img.shields.io/badge/Stack-MERN-blueviolet?style=flat-square" alt="Stack Badge"/>
   <img src="https://img.shields.io/badge/Data%20Engineering-Aspiring-brightgreen?style=flat-square" alt="Data Engineering Badge"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=leantos.leantos" alt="Visitor Badge"/>
 </p>
 
 <h1 align="center">Hi, I'm Emmanuel Tom Jose 👋</h1>
