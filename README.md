@@ -148,7 +148,7 @@
 
 - 📧 Email: [em3tom@gmail.com](mailto:em3tom@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/emmanueltomjose](https://linkedin.com/in/emmanueltomjose)
-- 🌐 Portfolio: *Coming soon...*
+- 🌐 Portfolio: [netlify/emmanuel-tom-jose](https://emmanuel-tom-jose.netlify.app/)
 
 ---
 
