@@ -182,7 +182,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [em3tom@gmail.com](mailto:em3tom@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/emmanueltomjose](https://linkedin.com/in/emmanueltomjose)
+- 💼 LinkedIn: [linkedin.com/in/emmanuel-tom-jose](www.linkedin.com/in/emmanuel-tom-jose)
 - 🌐 Portfolio: [netlify/emmanuel-tom-jose](https://emmanuel-tom-jose.netlify.app/)
 
 ---
