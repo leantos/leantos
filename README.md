@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Academic Excellence:** Master's in Computer Science from St Joseph's University (**8.92 CGPA**). Class topper in Machine Learning (91%).
+- 🎓 **Academic Excellence:** Master's in Computer Science from [St Joseph's University](https://www.sju.edu.in/about-the-university) (**8.92 CGPA**). Class topper in Machine Learning (91%).
 - 🛠️ **Production Ownership:** Currently leading the **XOS Infra V2** rollout for a 20-person startup, collaborating directly with the CTO on architectural strategy.
 - 🛡️ **Reliability Innovator:** Architected a high-availability environment from scratch, replacing manual runbooks with automated, human-centric DR consoles.
 - 💻 **Full-Stack Foundation:** Deep experience in **React.js**, **.NET**, and **PostgreSQL**, enabling a developer-first approach to infrastructure.
