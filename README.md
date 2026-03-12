@@ -71,14 +71,16 @@
 
 - **[Continue.dev Issue #6191](https://github.com/continuedev/continue/issues/6191):** Debugged HTTP 401 auth regressions in Groq/OpenRouter providers. Provided the reference solution now used by the community. *Endorsed by core maintainers.*
 - **[Banking-Ledger MVP] (In Progress):** A personal project demonstrating transactional idempotency, audit trails, and restore-verification drills for high-integrity financial systems.
-
+- **[Bitnami Labs - PR#1901](https://github.com/bitnami-labs/sealed-secrets/pull/1901)** Patched Helm chart Server-Side Apply (SSA) rejections by explicitly mapping TCP protocols, ensuring full compatibility with ArgoCD and Flux.
+- **[Bitnami Labs - PR#1900](https://github.com/bitnami-labs/sealed-secrets/pull/1900)** Mapped and documented global (--all-namespaces) vs. restricted namespace controller deployment architectures for enterprise-grade RBAC.
+- **[Bitnami Labs - PR#1892](https://github.com/bitnami-labs/sealed-secrets/pull/1892)** Resolved GKE Warden admission controller constraints, unblocking production deployments for modern GKE clusters (v1.32+).
 ---
 
 ### 📜 Growth & Certifications
+- **Contributor to [Bitnami Labs/Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)** Documentation and bug fixes
 - **CKA (Certified Kubernetes Administrator):** Currently in preparation.
 - **SRE Principles:** Deep-diving into SLO/SLI engineering and error budget management.
 - **Dutch Language:** Learning A1/A2 to facilitate 2027 relocation.
-
 ---
 
 ### 📫 Let's Connect
